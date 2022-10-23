@@ -14,6 +14,11 @@
 - NAACL 2021 Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents
 ## Stephy
 - ACL 2022 BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Languagemodels
+    - Model: BERT(base), BERT(large), RoBERTa(base) - using Huggingface interface
+    - Dataset: GLUE 
+    - Task: compare GLUE task performances of the below
+        - full fine-tuning
+        - BitFit: fine-tuning on bias parameter OR fine-tuning on partial bias parameter
 - EMNLP 2021 Generating Datasets with Pretrained Language Models
 - NAACL 2021 On the Inductive Bias of Masked Language Modeling
 - ACL 2021 Modeling Fine-Grained Entity Types with Box Embeddings
