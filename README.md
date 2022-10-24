@@ -4,9 +4,21 @@
 > Please 1) Make sure dataset is public dataset and accessible 2) Remark if code is available
 ## Frankie
 - ACL 2021 Prefix-Tuning: Optimizing Continuous Prompts for Generation
+    - Model: GPT-2, BART
+    - Dataset: Yes (total 3)
+    - Task: prefix-tuning and fine-tuning on table-to-text generation for increasing efficiency
 - ACL 2021 SimCSE: Simple Contrastive Learning of Sentence Embeddings
+    - Model: BERT
+    - Dataset: Yes
+    - Task: improve performance in classifying ‘entailment’ or ‘contraction’ from previous sentences using supervised/unsupervised SimCSE model
 - ACL 2021 Implicit Representations of Meaning in Neural Language Models
+    - Model: BART, T5transformer LM
+    - Dataset: Yes (total 2)
+    - Task: proving feasibility of Neural Language Models for contextual word representations
 - ACL 2021 Self-Attention Networks Can Process Bounded Hierarchical Languages
+    - Model: Dyck(k,D), seems no available package
+    - Dataset: random dataset from HuggingFace
+    - Task: proving feasibility of self-attention networks for hierarchical languages
 ## Eugene
 - EMNLP 2021 Improving and Simplifying Pattern Exploiting Training
 - EMNLP 2021 ExpBERT: Representation Engineering with Natural Language
