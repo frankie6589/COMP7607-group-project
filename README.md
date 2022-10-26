@@ -21,8 +21,17 @@
     - Task: proving feasibility of self-attention networks for hierarchical languages
 ## Eugene
 - EMNLP 2021 Improving and Simplifying Pattern Exploiting Training
+    - Model: ADAPET (have code)
+    - Dataset: SuperGLUE, data split as Schick and Schütze (2021b)
+    - Task: verify ADAPET has better performance than PET
 - EMNLP 2021 ExpBERT: Representation Engineering with Natural Language
+    - Model: ExpBERT (got code)
+    - Dataset: 3 databset
+    - Task: vertify if ExpBERT outperform other version of BERT
 - NAACL 2021 Low-Complexity Probing via Finding Subnetworks
+    - Model: bert-base-uncased
+    - Dataset: 1 dataset for each task (total 3)
+    - Task: vertify if subtractive pruning-based probe is more efficient than common method
 - NAACL 2021 Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents
 ## Stephy
 - **ACL 2022 BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Languagemodels**
