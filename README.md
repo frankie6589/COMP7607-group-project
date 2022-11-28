@@ -11,7 +11,7 @@ To run the program, you should:
 2) Connect to the Google Colaboratory Pro amd "Change Runtime" to GPU and High RAM for reproduction of similar results
 3) Run the command lines until the "Default" setting "!python /content/drive/MyDrive/Colab_Notebooks/PrefixTuning-cleaned/gpt2/train_e2e.py"
 4) Modify the parameters in the following command line to initiate by kaiming, xavier or random alongside other hyperparameters such as prefix length, learning rate, epochs and batch size
-5) Review the scores by the end of the output
+5) Review the metric scores by the end of the output
 
 ## 27 Oct 2022 
 Below papers are suggested: (bold in reading list)
