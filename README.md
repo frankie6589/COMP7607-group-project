@@ -1,4 +1,9 @@
 # comp7607_group_project
+
+## For replication of results - 28 November 2022
+Run script in PrefixTuning.ipynb
+Program files can be found at https://drive.google.com/drive/folders/1IgMrhAJ9YoCbrZBl2mgdpWRARJ-47y7d?usp=sharing
+
 ## 27 Oct 2022 
 Below papers are suggested: (bold in reading list)
 
